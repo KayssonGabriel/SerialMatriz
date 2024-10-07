@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "MSVC",
+	"compiler-id" : "MSVC",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/Users/kayss/CLionProjects/untitled6/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/kayss/CLionProjects/untitled6",
+	"dir-top-bld" : "C:/Users/kayss/CLionProjects/untitled6/cmake-build-debug",
+	"dir-top-src" : "C:/Users/kayss/CLionProjects/untitled6",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/kayss/CLionProjects/untitled6/cmake-build-debug/CMakeFiles/untitled6.dir"
+}

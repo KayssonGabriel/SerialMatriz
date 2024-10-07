@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\untitled6.dir\\main.cpp.obj",
+            "outputs": [
+                "C:\\Users\\kayss\\CLionProjects\\untitled6\\cmake-build-debug\\vc140.pdb",
+                "CMakeFiles\\untitled6.dir\\main.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

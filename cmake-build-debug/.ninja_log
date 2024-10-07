@@ -1,0 +1,13 @@
+# ninja log v6
+3	169	7500107948643749	CMakeFiles/untitled6.dir/main.cpp.obj.ddi	e6c90016798040ea
+174	205	7500107950630487	CMakeFiles/untitled6.dir/CXX.dd	beff25ee71e96192
+174	205	7500107950630487	C:/Users/kayss/CLionProjects/untitled6/cmake-build-debug/CMakeFiles/untitled6.dir/CXXModules.json	beff25ee71e96192
+174	205	7500107950630487	CMakeFiles/untitled6.dir/main.cpp.obj.modmap	beff25ee71e96192
+208	1552	7500107950691168	CMakeFiles/untitled6.dir/main.cpp.obj	6e29488ae27f4bde
+1552	1892	7500107964140849	untitled6.exe	794bb84599c4d3a5
+5	305	7500109892700389	CMakeFiles/untitled6.dir/main.cpp.obj.ddi	e6c90016798040ea
+331	399	7500109895969350	CMakeFiles/untitled6.dir/CXX.dd	beff25ee71e96192
+331	399	7500109895969350	C:/Users/kayss/CLionProjects/untitled6/cmake-build-debug/CMakeFiles/untitled6.dir/CXXModules.json	beff25ee71e96192
+331	399	7500109895969350	CMakeFiles/untitled6.dir/main.cpp.obj.modmap	beff25ee71e96192
+401	3023	7500109896673072	CMakeFiles/untitled6.dir/main.cpp.obj	6e29488ae27f4bde
+3023	3330	7500109922889443	untitled6.exe	794bb84599c4d3a5
